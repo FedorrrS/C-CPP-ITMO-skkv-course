@@ -1,0 +1,3 @@
+/home/selischev/code/itmo_c_png-FedorrrS/cmake-build-debug/CMakeFiles/itmo_c_png_FedorrrS.dir
+/home/selischev/code/itmo_c_png-FedorrrS/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/selischev/code/itmo_c_png-FedorrrS/cmake-build-debug/CMakeFiles/rebuild_cache.dir
